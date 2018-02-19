@@ -1,0 +1,6 @@
+[submodule "GitSubModulePushTest/Lib/submodule1"]
+	path = GitSubModulePushTest/Lib/submodule1
+	url = https://github.com/Prashanth5/gitSubModulePushTest.git
+[submodule "GitSubModulePushTest/GitSubModulePushTest/Lib/mobilelib"]
+	path = GitSubModulePushTest/GitSubModulePushTest/Lib/mobilelib
+	url = http://p_parate@172.30.204.246:8090/r/DCS/mobile/mobile-lib-ios.git

@@ -7,3 +7,6 @@
 [submodule "GitSubModulePushTest/Lib/subModule"]
 	path = GitSubModulePushTest/Lib/subModule
 	url = https://github.com/Prashanth5/subModuleForTest.git
+[submodule "GitSubModulePushTest/GitSubModulePushTest/Lib/subModule"]
+	path = GitSubModulePushTest/GitSubModulePushTest/Lib/subModule
+	url = https://github.com/Prashanth5/subModuleForTest.git
